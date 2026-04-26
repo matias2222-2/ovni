@@ -1,3 +1,4 @@
+
 vida = 100
 
 print("bienvenido al juego")
